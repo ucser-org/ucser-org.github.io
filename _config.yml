@@ -1,3 +1,14 @@
 title: UCER
-description: United Council for Education and Research
-theme: jekyll-theme-minimal
+description: United Council for science Education and Research — advocating for merit-based hiring and stronger scientific research in India
+theme: minima
+
+minima:
+  skin: dark
+  social_links:
+    - platform: github
+      user_url: "https://github.com/ucser-org"
+
+header_pages:
+  - about.md
+
+show_excerpts: true
